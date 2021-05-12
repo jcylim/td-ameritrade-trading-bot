@@ -1,0 +1,3 @@
+pandas
+tda-api
+td-ameritrade-python-api
